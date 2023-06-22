@@ -1,3 +1,11 @@
+.App {
+  text-align: center;
+}
+.single {
+  border: solid 4px black;
+  margin: 10px;
+}
 .bigCat {
   width: 150px;
 }
+
